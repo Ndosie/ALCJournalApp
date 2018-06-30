@@ -1,0 +1,40 @@
+<resources>
+    <!--Used in Action Bar and Android Manifest to tell the device the name of the app-->
+    <string name="app_name">Journal App</string>
+    <string name="welcome_message">Sign in to write what you feel..</string>
+
+    <!--User to display error when user has failed to sign in-->
+    <string name="sign_in_error_message">Failed to sign in with your Google Account!</string>
+
+    <!--Used to logout a user from EntriesActivity,DetailActivity,SaveEntryActivity-->
+    <string name="action_logout">Log Out</string>
+    <!--Used to open SaveEntryActivity on EntriesActivity-->
+    <string name="action_add">Add</string>
+    <!--Used to refresh entries on EntriesActivity-->
+    <string name="action_refresh">Refresh</string>
+    <!--Used to save an entry on SaveEntryActivity-->
+    <string name="action_save">Save</string>
+    <!--used to open SaveEntryActivity on DetailActivity-->
+    <string name="action_edit">Edit</string>
+    <!--used to delete an entry on DetailActivity-->
+    <string name="action_delete">Delete</string>
+
+
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Insert your thoughts here..</string>
+
+    <!--Used to display entries error message-->
+    <string name="entries_error_message">Failed to load entries.</string>
+    <!--Used to display entries error message-->
+    <string name="entries_info_message">There is no entries! Please add some..</string>
+    <!--Used to set title on Alert Dialogs-->
+    <string name="error_title">Error</string>
+    <!--Used to display success save message on SaveEntryActivity-->
+    <string name="save_success_message">You have successfully added your entry!!</string>
+    <!--Used to display success save message on SaveEntryActivity-->
+    <string name="update_success_message">You have successfully edited your entry!!</string>
+    <!--Used to display success delete message on SaveEntryActivity-->
+    <string name="delete_success_message">You have successfully deleted your entry!!</string>
+    <!--Used to display error message on SaveEntryActivity-->
+    <string name="save_error_message">Please enter the title and the content!</string>
+</resources>

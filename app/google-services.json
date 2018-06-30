@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "238022546610",
+    "firebase_url": "https://journal-app-69000.firebaseio.com",
+    "project_id": "journal-app-69000",
+    "storage_bucket": "journal-app-69000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238022546610:android:49f63dfcf1bcc82a",
+        "android_client_info": {
+          "package_name": "com.example.esther.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238022546610-5fgi39cao27am7eeqro2mjm1p49urrgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZZ1MarLDxlDO5SwMJOa9PFG_OOFxVjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
