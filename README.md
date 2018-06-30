@@ -4,7 +4,8 @@ An application where users can sign up using their google accounts and add, modi
 
 ## Getting Started
 
-The JournalApp.apk file and install it in your Android Mobile Phone.
+For viewing how the app works download the JournalApp.apk file and install it in your Android Mobile Phone.
+For check the code source files download the zip file and import into your Android Studio.
 
 ### Prerequisites
 
