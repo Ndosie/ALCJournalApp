@@ -9,6 +9,6 @@ For viewing the code source files download the zip file and import into your And
 
 ### Prerequisites
 
-Android SDK v26
-Android Build Tools v26.0.2
+Android SDK v26,
+Android Build Tools v26.0.2,
 Android Support Repository v26.3.0
