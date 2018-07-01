@@ -4,7 +4,7 @@ An application where users can sign up using their google accounts and add, modi
 
 ## Getting Started
 ### Opening the app
-- Download the JournalApp.apk file and install it in your Android Mobile Phone.
+- Download the [JournalApp.apk](https://github.com/Ndosie/ALCJournalApp/blob/master/JournalApp.apk) file and install it in your Android Mobile Phone.
 - Open the application and sign in with your Google Account.
 - Click add button on the action bar to add new entry.
 
