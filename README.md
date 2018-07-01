@@ -4,11 +4,17 @@ An application where users can sign up using their google accounts and add, modi
 
 ## Getting Started
 
-For viewing how the app works download the JournalApp.apk file and install it in your Android Mobile Phone.
-For viewing the code source files download the zip file and import into your Android Studio.
+- Download the JournalApp.apk file and install it in your Android Mobile Phone.
+- Open the application and sign in with your Google Account.
+- Click add button on the action bar to add new entry.
+
+#### Viewing, Editing, Deleting an Entry
+- Click the entry on the list to open its details.
+- Click the edit button on the action bar to open edit form.
+- Click the delete button on the action bar to delete the entry
 
 ### Prerequisites
 
-Android SDK v26,
-Android Build Tools v26.0.2,
-Android Support Repository v26.3.0
+- Android SDK v26
+- Android Build Tools v26.0.2
+- Android Support Repository v26.3.0
